@@ -10,3 +10,4 @@ components/danbooru/libdanbooruac.so
 components/danbooru/module.rc
 components/danbooru/module.res
 /danbooruup.xpi
+/platform

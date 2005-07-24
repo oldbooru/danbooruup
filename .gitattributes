@@ -4,6 +4,7 @@
 chrome/.cvsignore -text
 chrome/content/danbooruup/contents.rdf -text
 chrome/content/danbooruup/danbooruUp.js -text
+chrome/content/danbooruup/danbooruUp.xml -text
 chrome/content/danbooruup/danbooruUp.xul -text
 chrome/content/danbooruup/danbooruUpBox.xul -text
 chrome/content/danbooruup/danbooruUpOptions.js -text
@@ -19,7 +20,10 @@ chrome/skin/classic/danbooruup/icon-large.png -text
 chrome/skin/classic/danbooruup/icon.ico -text
 components/danbooru/.cvsignore -text
 components/danbooru/Makefile -text
+components/danbooru/Makefile.debug -text
 components/danbooru/Makefile.in -text
+components/danbooru/Makefile.release -text
+components/danbooru/module.ver -text
 components/danbooru/nsDanbooruAutoComplete.cpp -text
 components/danbooru/nsDanbooruAutoComplete.h -text
 components/danbooru/nsDanbooruAutoCompleteModule.cpp -text
