@@ -24,11 +24,14 @@ components/danbooru/Makefile.debug -text
 components/danbooru/Makefile.in -text
 components/danbooru/Makefile.release -text
 components/danbooru/module.ver -text
+components/danbooru/nsAutoCompleteArrayResult.cpp -text
+components/danbooru/nsAutoCompleteArrayResult.h -text
 components/danbooru/nsDanbooruAutoComplete.cpp -text
 components/danbooru/nsDanbooruAutoComplete.h -text
 components/danbooru/nsDanbooruAutoCompleteModule.cpp -text
 components/danbooru/nsDanbooruTagHistory.cpp -text
 components/danbooru/nsDanbooruTagHistory.h -text
+components/danbooru/nsIAutoCompleteArrayResult.idl -text
 components/danbooru/nsIDanbooruAutoComplete.idl -text
 components/danbooru/nsIDanbooruTagHistory.idl -text
 components/danbooru/win32.order -text
