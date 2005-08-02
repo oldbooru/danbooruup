@@ -19,7 +19,6 @@ chrome/skin/classic/danbooruup/danbooruUp.css -text
 chrome/skin/classic/danbooruup/icon-large.png -text
 chrome/skin/classic/danbooruup/icon.ico -text
 components/danbooru/.cvsignore -text
-components/danbooru/Makefile -text
 components/danbooru/Makefile.debug -text
 components/danbooru/Makefile.in -text
 components/danbooru/Makefile.release -text
@@ -29,11 +28,11 @@ components/danbooru/nsAutoCompleteArrayResult.h -text
 components/danbooru/nsDanbooruAutoComplete.cpp -text
 components/danbooru/nsDanbooruAutoComplete.h -text
 components/danbooru/nsDanbooruAutoCompleteModule.cpp -text
-components/danbooru/nsDanbooruTagHistory.cpp -text
-components/danbooru/nsDanbooruTagHistory.h -text
+components/danbooru/nsDanbooruTagHistoryService.cpp -text
+components/danbooru/nsDanbooruTagHistoryService.h -text
 components/danbooru/nsIAutoCompleteArrayResult.idl -text
 components/danbooru/nsIDanbooruAutoComplete.idl -text
-components/danbooru/nsIDanbooruTagHistory.idl -text
+components/danbooru/nsIDanbooruTagHistoryService.idl -text
 components/danbooru/win32.order -text
 defaults/preferences/danbooruup.js -text
 /install.rdf -text
