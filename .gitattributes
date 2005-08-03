@@ -6,6 +6,7 @@ chrome/content/danbooruup/contents.rdf -text
 chrome/content/danbooruup/danbooruUp.js -text
 chrome/content/danbooruup/danbooruUp.xml -text
 chrome/content/danbooruup/danbooruUp.xul -text
+chrome/content/danbooruup/danbooruUpBox.js -text
 chrome/content/danbooruup/danbooruUpBox.xul -text
 chrome/content/danbooruup/danbooruUpOptions.js -text
 chrome/content/danbooruup/danbooruUpOptions.xul -text
