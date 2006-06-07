@@ -1,5 +1,8 @@
+/*.xpi
 chrome/danbooruup.jar
+components/danbooru/*.ilk
 components/danbooru/*.obj
+components/danbooru/*.pdb
 components/danbooru/.deps
 components/danbooru/Makefile
 components/danbooru/_xpidlgen
@@ -9,5 +12,4 @@ components/danbooru/fake-import
 components/danbooru/libdanbooruac.so
 components/danbooru/module.rc
 components/danbooru/module.res
-/danbooruup.xpi
 /platform
