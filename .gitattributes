@@ -15,6 +15,7 @@ chrome/locale/en-US/danbooruup/danbooruUp.dtd -text
 chrome/locale/en-US/danbooruup/danbooruUp.properties -text
 chrome/locale/en-US/danbooruup/danbooruUpOptions.dtd -text
 chrome/skin/classic/danbooruup/contents.rdf -text
+chrome/skin/classic/danbooruup/danbooru-attention.gif -text
 chrome/skin/classic/danbooruup/danbooru-uploading.gif -text
 chrome/skin/classic/danbooruup/danbooruUp.css -text
 chrome/skin/classic/danbooruup/icon-large.png -text
