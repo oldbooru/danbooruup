@@ -2,7 +2,6 @@
 /.cvsignore -text
 /chrome.manifest -text
 chrome/.cvsignore -text
-chrome/content/danbooruup/contents.rdf -text
 chrome/content/danbooruup/danbooruUp.js -text
 chrome/content/danbooruup/danbooruUp.xml -text
 chrome/content/danbooruup/danbooruUp.xul -text
@@ -12,11 +11,9 @@ chrome/content/danbooruup/danbooruUpMeta.js -text
 chrome/content/danbooruup/danbooruUpMeta.xul -text
 chrome/content/danbooruup/danbooruUpOptions.js -text
 chrome/content/danbooruup/danbooruUpOptions.xul -text
-chrome/locale/en-US/danbooruup/contents.rdf -text
 chrome/locale/en-US/danbooruup/danbooruUp.dtd -text
 chrome/locale/en-US/danbooruup/danbooruUp.properties -text
 chrome/locale/en-US/danbooruup/danbooruUpOptions.dtd -text
-chrome/skin/classic/danbooruup/contents.rdf -text
 chrome/skin/classic/danbooruup/danbooru-attention.gif -text
 chrome/skin/classic/danbooruup/danbooru-uploading.gif -text
 chrome/skin/classic/danbooruup/danbooruUp.css -text
