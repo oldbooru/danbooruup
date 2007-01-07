@@ -8,6 +8,8 @@ chrome/content/danbooruup/danbooruUp.xml -text
 chrome/content/danbooruup/danbooruUp.xul -text
 chrome/content/danbooruup/danbooruUpBox.js -text
 chrome/content/danbooruup/danbooruUpBox.xul -text
+chrome/content/danbooruup/danbooruUpMeta.js -text
+chrome/content/danbooruup/danbooruUpMeta.xul -text
 chrome/content/danbooruup/danbooruUpOptions.js -text
 chrome/content/danbooruup/danbooruUpOptions.xul -text
 chrome/locale/en-US/danbooruup/contents.rdf -text
