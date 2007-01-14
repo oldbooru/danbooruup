@@ -11,6 +11,10 @@ chrome/content/danbooruup/danbooruUpMeta.js -text
 chrome/content/danbooruup/danbooruUpMeta.xul -text
 chrome/content/danbooruup/danbooruUpOptions.js -text
 chrome/content/danbooruup/danbooruUpOptions.xul -text
+chrome/content/danbooruup/extra/ac-insert.js -text
+chrome/content/danbooruup/extra/controls.js -text
+chrome/content/danbooruup/extra/effects.js -text
+chrome/content/danbooruup/extra/prototype.js -text
 chrome/locale/en-US/danbooruup/danbooruUp.dtd -text
 chrome/locale/en-US/danbooruup/danbooruUp.properties -text
 chrome/locale/en-US/danbooruup/danbooruUpOptions.dtd -text
