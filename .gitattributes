@@ -25,6 +25,7 @@ chrome/skin/classic/danbooruup/danbooru-uploading.gif -text
 chrome/skin/classic/danbooruup/danbooruUp.css -text
 chrome/skin/classic/danbooruup/icon-large.png -text
 chrome/skin/classic/danbooruup/icon.ico -text
+components/.cvsignore -text
 components/Makefile -text
 components/Makefile.in -text
 components/danbooru/.cvsignore -text
