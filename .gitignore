@@ -1,6 +1,7 @@
 /*.xpi
 chrome/danbooruup.jar
-components/.cvsignore
+components/*.xpt
+components/_xpidlgen
 components/danbooru/*.ilk
 components/danbooru/*.obj
 components/danbooru/*.pdb
