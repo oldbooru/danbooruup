@@ -2,6 +2,7 @@
 /.cvsignore -text
 /chrome.manifest -text
 chrome/.cvsignore -text
+chrome/content/danbooruup/danbooruToolbar.xul -text
 chrome/content/danbooruup/danbooruUp.js -text
 chrome/content/danbooruup/danbooruUp.xml -text
 chrome/content/danbooruup/danbooruUp.xul -text
