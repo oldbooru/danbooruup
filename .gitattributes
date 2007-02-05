@@ -2,9 +2,10 @@
 /.cvsignore -text
 /chrome.manifest -text
 chrome/.cvsignore -text
+chrome/content/danbooruup-1.8/danbooruUp.xml -text
+chrome/content/danbooruup-1.9/danbooruUp.xml -text
 chrome/content/danbooruup/danbooruToolbar.xul -text
 chrome/content/danbooruup/danbooruUp.js -text
-chrome/content/danbooruup/danbooruUp.xml -text
 chrome/content/danbooruup/danbooruUp.xul -text
 chrome/content/danbooruup/danbooruUpBox.js -text
 chrome/content/danbooruup/danbooruUpBox.xul -text

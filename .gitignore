@@ -1,12 +1,14 @@
 /*.xpi
 chrome/danbooruup.jar
 components/*.xpt
+components/_javagen
 components/_xpidlgen
 components/danbooru/*.ilk
 components/danbooru/*.obj
 components/danbooru/*.pdb
 components/danbooru/.deps
 components/danbooru/Makefile
+components/danbooru/_javagen
 components/danbooru/_xpidlgen
 components/danbooru/danbruac.dll
 components/danbooru/dependentLibs.h
