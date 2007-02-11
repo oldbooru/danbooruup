@@ -13,6 +13,7 @@ chrome/content/danbooruup/danbooruUpMeta.js -text
 chrome/content/danbooruup/danbooruUpMeta.xul -text
 chrome/content/danbooruup/danbooruUpOptions.js -text
 chrome/content/danbooruup/danbooruUpOptions.xul -text
+chrome/content/danbooruup/danbooruUpTagStyle.js -text
 chrome/content/danbooruup/extra/ac-insert.js -text
 chrome/content/danbooruup/extra/controls.js -text
 chrome/content/danbooruup/extra/du-autocompleter.js -text
@@ -25,6 +26,7 @@ chrome/locale/en-US/danbooruup/danbooruUpOptions.dtd -text
 chrome/skin/classic/danbooruup/danbooru-attention.gif -text
 chrome/skin/classic/danbooruup/danbooru-uploading.gif -text
 chrome/skin/classic/danbooruup/danbooruUp.css -text
+chrome/skin/classic/danbooruup/danbooruup-autocomplete.css -text
 chrome/skin/classic/danbooruup/icon-large.png -text
 chrome/skin/classic/danbooruup/icon.ico -text
 components/.cvsignore -text
