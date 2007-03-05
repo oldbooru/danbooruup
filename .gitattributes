@@ -50,6 +50,8 @@ components/danbooru/module.ver -text
 components/danbooru/win32.order -text
 components/danbooruUpHelper.idl -text
 components/danbooruUpHelper.js -text
+components/danbooruUpJSAutoComplete.idl -text
+components/danbooruUpJSAutoComplete.js -text
 defaults/preferences/danbooruup.js -text
 /install.rdf -text
 /package.bat -text
