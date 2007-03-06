@@ -46,11 +46,11 @@ components/danbooru/danbooruIAutoCompleteArrayResult.idl -text
 components/danbooru/danbooruITagHistoryService.idl -text
 components/danbooru/danbooruTagHistoryService.cpp -text
 components/danbooru/danbooruTagHistoryService.h -text
+components/danbooru/danbooruUpHelper.idl -text
+components/danbooru/danbooruUpJSAutoComplete.idl -text
 components/danbooru/module.ver -text
 components/danbooru/win32.order -text
-components/danbooruUpHelper.idl -text
 components/danbooruUpHelper.js -text
-components/danbooruUpJSAutoComplete.idl -text
 components/danbooruUpJSAutoComplete.js -text
 defaults/preferences/danbooruup.js -text
 /install.rdf -text
