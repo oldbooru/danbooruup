@@ -26,6 +26,11 @@ chrome/content/danbooruup/utils.js -text
 chrome/locale/en-US/danbooruup/danbooruUp.dtd -text
 chrome/locale/en-US/danbooruup/danbooruUp.properties -text
 chrome/locale/en-US/danbooruup/danbooruUpOptions.dtd -text
+chrome/skin/classic/danbooruup/Throbber-small.gif -text
+chrome/skin/classic/danbooruup/Throbber-small.png -text
+chrome/skin/classic/danbooruup/Weblink.png -text
+chrome/skin/classic/danbooruup/arrow-lft-sharp.gif -text
+chrome/skin/classic/danbooruup/arrow-rit-sharp.gif -text
 chrome/skin/classic/danbooruup/danbooru-attention.gif -text
 chrome/skin/classic/danbooruup/danbooru-uploading.gif -text
 chrome/skin/classic/danbooruup/danbooruUp.css -text
