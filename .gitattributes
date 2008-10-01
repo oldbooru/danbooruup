@@ -26,6 +26,9 @@ chrome/content/danbooruup/utils.js -text
 chrome/locale/en-US/danbooruup/danbooruUp.dtd -text
 chrome/locale/en-US/danbooruup/danbooruUp.properties -text
 chrome/locale/en-US/danbooruup/danbooruUpOptions.dtd -text
+chrome/skin/classic/danbooruup-lnx/danbooruUpOptions.css -text
+chrome/skin/classic/danbooruup-mac/danbooruUpOptions.css -text
+chrome/skin/classic/danbooruup-win/danbooruUpOptions.css -text
 chrome/skin/classic/danbooruup/Throbber-small.gif -text
 chrome/skin/classic/danbooruup/Throbber-small.png -text
 chrome/skin/classic/danbooruup/Weblink.png -text
