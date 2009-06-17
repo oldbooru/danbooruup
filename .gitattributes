@@ -19,10 +19,10 @@ chrome/content/danbooruup/danbooruUpOptions-style.xul -text
 chrome/content/danbooruup/danbooruUpOptions.js -text
 chrome/content/danbooruup/danbooruUpOptions.xul -text
 chrome/content/danbooruup/danbooruUpTagStyle.js -text
-chrome/content/danbooruup/extra/ac-insert2.js -text
-chrome/content/danbooruup/extra/attacher.js -text
-chrome/content/danbooruup/extra/autoCompleterHTMLPopup.js -text
-chrome/content/danbooruup/extra/completer.js -text
+chrome/content/danbooruup/site_injection/ac-insert2.js -text
+chrome/content/danbooruup/site_injection/attacher.js -text
+chrome/content/danbooruup/site_injection/autoCompleterHTMLPopup.js -text
+chrome/content/danbooruup/site_injection/completer.js -text
 chrome/content/danbooruup/uploader.js -text
 chrome/content/danbooruup/utils.js -text
 chrome/locale/en-US/danbooruup/danbooruUp.dtd -text
@@ -53,5 +53,8 @@ components/danbooruTagHistoryService.js -text
 components/danbooruUpHelper.js -text
 defaults/preferences/danbooruup.js -text
 /install.rdf -text
+/makeUserJS.py -text
 /package.bat -text
 /package.sh -text
+userjs/danbooruNotes.js -text
+userjs/danbooruUpUserJS.js.template -text
