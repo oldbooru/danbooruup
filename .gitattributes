@@ -1,4 +1,5 @@
 * text=auto !eol
+build/danbooruup.xpi -text
 /chrome.manifest -text
 chrome/.cvsignore -text
 chrome/content/danbooruup/autoCompleter.js -text
