@@ -57,5 +57,8 @@ defaults/preferences/danbooruup.js -text
 /makeUserJS.py -text
 /package.bat -text
 /package.sh -text
+scripts/note_history.py -text
+scripts/sort_users.py -text
+userjs/danbooruNoteHistory.js -text
 userjs/danbooruNotes.js -text
 userjs/danbooruUpUserJS.js.template -text
