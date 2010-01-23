@@ -59,6 +59,6 @@ defaults/preferences/danbooruup.js -text
 /package.sh -text
 scripts/note_history.py -text
 scripts/sort_users.py -text
-userjs/danbooruNoteHistory.js -text
-userjs/danbooruNotes.js -text
+userjs/danbooruNoteHistory.user.js -text
+userjs/danbooruNotes.user.js -text
 userjs/danbooruUpUserJS.js.template -text
